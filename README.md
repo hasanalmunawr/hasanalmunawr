@@ -17,10 +17,11 @@ I'm currently still as a student majoring in information system, even though i'm
   <br>
   
 ### Github Statistic
+
 <p align="left">
-<a href="https://github.com/hasan0700">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hasan0700&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasan0700&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
 

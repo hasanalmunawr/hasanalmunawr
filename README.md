@@ -26,7 +26,5 @@ I'm currently still as a student majoring in information system, even though i'm
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="https://linkedin.com/in/hasan-almunawar-083982278/">LinkedIn</a> 
+- <a href="https://web.facebook.com/hasan.almunawar.315">Facebook</a>

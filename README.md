@@ -12,7 +12,9 @@ I'm currently still as a student majoring in information system, even though i'm
 ### Tech Stack
   
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fbablubambal%2FAll_logo_and_pictures&psig=AOvVaw3MpcR8mvyfXwT_Gyv6RACF&ust=1696857489385000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi8ifHE5oEDFQAAAAAdAAAAABAE" /></a>
+    <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" /></a>
+      <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://erudisi.com/wp-content/uploads/2015/09/mysql-logo.png" /></a>
+      <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" /></a>
   <br>
   <br>
   

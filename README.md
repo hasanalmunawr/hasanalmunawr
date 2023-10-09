@@ -10,11 +10,9 @@ I'm currently still as a student majoring in information system, even though i'm
 
 
 ### Tech Stack
-  
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-    <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" /></a>
-      <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://erudisi.com/wp-content/uploads/2015/09/mysql-logo.png" /></a>
-      <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" /></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <br>
   <br>
   
@@ -30,3 +28,5 @@ I'm currently still as a student majoring in information system, even though i'm
 ### Reach me on
 - <a href="https://linkedin.com/in/hasan-almunawar-083982278/">LinkedIn</a> 
 - <a href="https://web.facebook.com/hasan.almunawar.315">Facebook</a>
+- <a href="https://leetcode.com/hasan_23/">LeetCode</a>
+- <a href="https://tlx.toki.id/profiles/hasan_07">tokiId</a>

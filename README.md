@@ -1,9 +1,8 @@
 ### Hi! 👋 I'm Hasan.
 
-A Student want to be a Software Engineer who loves to create and share projects about Java language and Backend technology! I've enjoyed Java and make it the main language in creating a project.
+A Student want to be a Software Engineer who loves to create and share projects about Java language and Backend technology! I've enjoyed Java and make it the main language in creating a small project.
 
-I'm currently still as a student majoring in information system, even though i'm still student, i often contribution on some project open source  to build Back-End Service.
-
+I'm currently still as a student majoring in information system, 
 -  I’m currently learning about Java spring boot for back-end , and also study english for grow my knowladge
    
 

@@ -5,9 +5,6 @@ A Student want to be a Software Engineer who loves to create and share project a
 I'm currently still as a java learner, 
 -  I’m currently learning about Java spring boot for back-end , and also study english for grow my knowladge
    
-
-
-
 ### Tech Stack
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>

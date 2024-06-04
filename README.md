@@ -23,7 +23,7 @@ I'm currently still as a java learner,
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/hasan-almunawar-083982278/">LinkedIn</a> 
+- <a href="https://linkedin.com/in/hasan-almunawar-083982278/">LinkedIn</a>   https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 
 - <a href="https://web.facebook.com/hasan.almunawar.315">Facebook</a>
 - <a href="https://leetcode.com/hasan_23/">LeetCode</a>
 - <a href="https://www.hackerrank.com/hasanalmunawar07">Hackerrank</a>
@@ -43,3 +43,34 @@ I'm currently still as a java learner,
 
 
    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+
+
+
+
+
+
+   ├── backend/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── example/
+│   │   │   │           └── demo/
+│   │   │   │               ├── DemoApplication.java
+│   │   │   │               ├── controller/
+│   │   │   │               ├── model/
+│   │   │   │               └── repository/
+│   │   └── resources/
+│   │       ├── application.properties
+│   │       └── static/
+│   │       └── templates/
+└── frontend/
+    ├── public/
+    └── src/
+        ├── components/
+        ├── App.js
+        ├── index.js
+        └── ...
+
+

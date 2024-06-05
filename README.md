@@ -25,7 +25,7 @@ I'm currently still as a java learner,
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/hasan-almunawar-083982278/">LinkedIn</a>   https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 
+- <a href="https://linkedin.com/in/hasan-almunawar-083982278/">LinkedIn</a> 
 - <a href="https://web.facebook.com/hasan.almunawar.315">Facebook</a>
 - <a href="https://leetcode.com/hasan_23/">LeetCode</a>
 - <a href="https://www.hackerrank.com/hasanalmunawar07">Hackerrank</a>

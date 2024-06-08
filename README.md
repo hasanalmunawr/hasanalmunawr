@@ -1,10 +1,7 @@
-### Hi! 👋 I'm Hasan.
+# Hi there! 👋 I'm Hasan.
 
-A Student want to be a Software Engineer who loves to create and share project about Java language and Backend technology! I've enjoyed Java and make it the main language in creating a small project.
+Welcome to my GitHub profile! A passionate student aspiring to become a Software Engineer. I have a keen interest in Java programming language and Backend technologies. I love to create and share projects that showcase my skills and knowledge.
 
-I'm currently still as a java learner, 
--  I’m currently learning about Java spring boot for back-end , and also study english for grow my knowladge
-   
 
 ### 🧰 Languages 
 

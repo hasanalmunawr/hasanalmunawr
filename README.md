@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Hasan.
 
-Welcome to my GitHub profile! A passionate student aspiring to become a Software Engineer. I have a keen interest in Java programming language and Backend technologies. I love to create and share projects that showcase my skills and knowledge.
+Welcome to my GitHub profile! A passionate student aspiring to become a Software Engineer. I'm keen on learning Java programming language and Backend technologies. I love to create and share projects that showcase my skills and knowledge.
 
 
 ### 🧰 Languages 

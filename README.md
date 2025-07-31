@@ -1,9 +1,9 @@
-# Hi there! 👋 I'm Hasan.
+# Hi there! 👋 I'm Hasan Hasan Almunawar.
 
-Welcome to my GitHub profile! A passionate student aspiring to become a Software Engineer. I'm keen on learning Java programming language and Backend technologies. I love to create and share projects that showcase my skills and knowledge.
+Welcome to my GitHub profile! I am a passionate Software Engineer specializing in backend system development, with a strong focus on Spring Boot (Java) as my core technology.
 
 
-### 🧰 Languages 
+### 🧰 Core Technologies
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="icons/Java-Light.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="icons/Spring-Light.svg"/>

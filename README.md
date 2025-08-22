@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I am a passionate Software Engineer specializing i
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="icons/Java-Light.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="icons/Spring-Light.svg"/>
+<img align="left" alt="Quarkus" width="30px" style="padding-right:10px;" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/quarkus-icon-zbfdmmlsjqmgsfxnkl3kl.png/quarkus-icon-0jc4z7b0uh67jmnhyq5ibd.png?_a=DATAg1AAZAA0"/>
 <img align="left" alt="Postgres" width="30px" style="padding-right:10px;" src="icons/PostgreSQL-Light.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="icons/Docker.svg"/>
   <br>

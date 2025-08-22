@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Hasan Hasan Almunawar.
 
-Welcome to my GitHub profile! I am a passionate Software Engineer specializing in backend system development, with a strong focus on Spring Boot (Java) as my core technology.
+Welcome to my GitHub profile! I am a passionate Software Engineer specializing in backend system development, with a strong focus on Java (Spring Boot & Quarkus) as my core technology.
 
 
 ### 🧰 Core Technologies

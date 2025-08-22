@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I am a passionate Software Engineer specializing i
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="icons/Java-Light.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="icons/Spring-Light.svg"/>
 <img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" 
-     src="https://spring.io/images/spring-logo-2022-03-16-7c8527c6d5b01e832c84b07d0f2c4070.svg"/>
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
+
 <img align="left" alt="Quarkus" width="30px" style="padding-right:10px;" 
      src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg"/>
 
